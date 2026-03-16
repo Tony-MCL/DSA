@@ -1,0 +1,8 @@
+{
+  "id": "CTRL_005",
+  "title": "Generator Protection",
+  "category": "Control System",
+  "keywords": ["generator protection", "generator relay", "differential protection"],
+  "standard": true,
+  "text": "Generator protection system including protection relays, measurement transformers and associated wiring."
+}
