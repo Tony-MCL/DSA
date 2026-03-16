@@ -1,0 +1,8 @@
+{
+  "id": "HV_003",
+  "title": "Generator Connection",
+  "category": "High Voltage",
+  "keywords": ["generator connection", "busbar", "cable connection"],
+  "standard": true,
+  "text": "Generator connection between generator and switchgear including cables or busbar system."
+}
