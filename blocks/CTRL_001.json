@@ -1,0 +1,8 @@
+{
+  "id": "CTRL_001",
+  "title": "Control System – General",
+  "category": "Control System",
+  "keywords": ["control system", "automation", "control", "PLC"],
+  "standard": true,
+  "text": "Complete control system including architecture, redundancy philosophy, operator interface and communication infrastructure."
+}
