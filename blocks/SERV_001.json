@@ -1,0 +1,8 @@
+{
+  "id": "SERV_001",
+  "title": "Factory Acceptance Test",
+  "category": "Services",
+  "keywords": ["FAT", "factory acceptance test"],
+  "standard": true,
+  "text": "Factory acceptance testing of control and protection systems."
+}
