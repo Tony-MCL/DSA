@@ -1,0 +1,8 @@
+{
+  "id": "LV_001",
+  "title": "Low Voltage Distribution",
+  "category": "Low Voltage",
+  "keywords": ["low voltage", "LV switchgear", "distribution board"],
+  "standard": true,
+  "text": "Low voltage distribution boards supplying auxiliary systems."
+}
