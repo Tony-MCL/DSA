@@ -1,0 +1,8 @@
+{
+  "id": "INST_001",
+  "title": "Field Instrumentation",
+  "category": "Instrumentation",
+  "keywords": ["instrumentation", "sensors", "measurement"],
+  "standard": true,
+  "text": "Field instrumentation including sensors and measurement equipment."
+}
