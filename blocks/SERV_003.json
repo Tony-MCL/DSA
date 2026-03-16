@@ -1,0 +1,8 @@
+{
+  "id": "SERV_003",
+  "title": "Documentation",
+  "category": "Services",
+  "keywords": ["documentation", "drawings", "manuals"],
+  "standard": true,
+  "text": "Technical documentation including drawings, manuals and test reports."
+}
