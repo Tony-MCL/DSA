@@ -1,0 +1,8 @@
+{
+  "id": "CTRL_006",
+  "title": "Transformer Protection",
+  "category": "Control System",
+  "keywords": ["transformer protection", "protection relay"],
+  "standard": true,
+  "text": "Transformer protection system including protection relays, protection logic and wiring."
+}
