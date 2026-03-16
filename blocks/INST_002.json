@@ -1,0 +1,8 @@
+{
+  "id": "INST_002",
+  "title": "Signal Cabling",
+  "category": "Instrumentation",
+  "keywords": ["signal cables", "control cables", "instrument cables"],
+  "standard": true,
+  "text": "Signal cabling between field instruments and control cabinets."
+}
