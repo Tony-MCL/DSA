@@ -1,0 +1,8 @@
+{
+  "id": "MECH_001",
+  "title": "Mechanical Installation",
+  "category": "Mechanical",
+  "keywords": ["mechanical installation", "mounting", "structures"],
+  "standard": true,
+  "text": "Mechanical installation of equipment including supports and mounting structures."
+}
