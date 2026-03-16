@@ -1,0 +1,8 @@
+{
+  "id": "CTRL_004",
+  "title": "SCADA System",
+  "category": "Control System",
+  "keywords": ["SCADA", "HMI", "operator interface", "monitoring"],
+  "standard": true,
+  "text": "SCADA system including operator stations, visualization software and plant monitoring functions."
+}
