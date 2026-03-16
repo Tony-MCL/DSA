@@ -1,0 +1,8 @@
+{
+  "id": "LV_002",
+  "title": "Battery System",
+  "category": "Low Voltage",
+  "keywords": ["battery system", "DC supply", "station battery"],
+  "standard": true,
+  "text": "Battery system providing DC supply for protection and control systems."
+}
