@@ -1,0 +1,8 @@
+{
+  "id": "LV_003",
+  "title": "Battery Charger",
+  "category": "Low Voltage",
+  "keywords": ["battery charger", "rectifier", "DC charger"],
+  "standard": true,
+  "text": "Battery charger / rectifier supplying the station DC system."
+}
