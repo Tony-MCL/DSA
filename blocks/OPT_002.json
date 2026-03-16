@@ -1,0 +1,8 @@
+{
+  "id": "OPT_002",
+  "title": "Data Gateway",
+  "category": "Options",
+  "keywords": ["data gateway", "IoT", "data integration"],
+  "standard": false,
+  "text": "Data gateway for integration with external monitoring or analytics systems."
+}
