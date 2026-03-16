@@ -1,0 +1,8 @@
+{
+  "id": "CTRL_003",
+  "title": "PLC System",
+  "category": "Control System",
+  "keywords": ["PLC", "controller", "automation system"],
+  "standard": true,
+  "text": "PLC based control system including CPU, IO modules, communication modules and system configuration."
+}
